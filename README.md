@@ -1,6 +1,14 @@
 # React Calculator
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react)](https://skillicons.dev)
 
+![alt text](https://github.com/CarlosMayo1/react-calculator/blob/master/src/img/calculator-01.PNG)
+
+This project was a Free Code Camp challenge I solved in order to get my Frontend certificate. To deveolp this project I used React as the main framework to show my skills using it. 
+
+## What can you do with this calculator? :thinking:
+In this calculator you can do basic operations like add :heavy_plus_sign:, subtract :heavy_minus_sign:, multiply :heavy_multiplication_x: or divide :heavy_division_sign:. Decimals are allowed too.
+
+Would you like to give it a try? If so, please click here: :arrow_right: [React Calculator](https://codepen.io/CarlosMayo1/pen/RwBKgZa). You will be redirected to my portafolio in CodePen.
 
 ## Getting Started with Create React App
 
