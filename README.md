@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# React Calculator
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react)](https://skillicons.dev)
+
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
